@@ -1,13 +1,4 @@
-# web
-arr100.international
-the website for (fuigrniskfi9fahu9fwkifwenfwefksnfwogewgweg.cf)
+# arr3.ml
+A personal website created by arr3.
 
-
-
-
-
-
-
-
-
-vsc
+Work in progress.
